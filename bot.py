@@ -2,8 +2,6 @@ from newspaper import Article
 from newspaper import Config
 import nltk
 import selenium
-<<<<<<< HEAD
-from selenium import *
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import requests
@@ -127,10 +125,8 @@ window.mainloop()
 
 
 
-=======
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
->>>>>>> 0bda95df495c217c0c13812d02000ef186d6572b
 
 DRIVER_PATH = "C://Users//Zaine Horn//Documents//chrome//chrome-win64"
 options = Options()
